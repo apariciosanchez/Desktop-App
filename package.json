@@ -1,0 +1,12 @@
+{
+  "name": "rick-and-morty-desktop",
+  "version": "1.0.0",
+  "description": "Aplicación de escritorio para consultar personajes de Rick and Morty",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
